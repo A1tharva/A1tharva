@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=A1tharva&label=Profile%20views&color=0e75b6&style=flat" alt="A1tharva" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a1tharva" alt="a1tharva" /></a> </p>
-
 - 🔭 I’m currently working on [AI-Powered Digital Apparel Intelligence & Virtual Fitting Platform](https://github.com/A1tharva/ai-virtual-fitting-platform)
 
 - 🌱 I’m currently learning **Deep Learning, LLMs, Generative AI**
