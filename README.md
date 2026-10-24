@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atharva Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=A1tharva&label=Profile%20views&color=0e75b6&style=flat" alt="A1tharva" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=A1tharva&label=Profile%20views&color=0e75b6&style=flat" alt=A1tharva" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=A1tharva" alt="A1tharva" /></a> </p>
 
 - 🔭 I’m currently working on [AI-Powered Digital Apparel Intelligence & Virtual Fitting Platform](https://github.com/A1tharva/ai-virtual-fitting-platform)
 
@@ -34,4 +36,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a1tharva&show_icons=true&locale=en&layout=compact" alt="a1tharva" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a1tharva&show_icons=true&locale=en" alt="a1tharva" /></p>
-
